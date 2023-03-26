@@ -2,7 +2,7 @@
 using namespace std;
 
 
-//print Marks&Niles matrix to console
+//print Marks&Nules matrix to console
 void print(char arr[][3], int h, int w)
 {
 	cout << endl;
